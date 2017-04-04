@@ -1,0 +1,6 @@
+D:\Павловская лабы\ProstKlass\ProstKlass\bin\Debug\ProstKlass.exe.config
+D:\Павловская лабы\ProstKlass\ProstKlass\bin\Debug\ProstKlass.exe
+D:\Павловская лабы\ProstKlass\ProstKlass\bin\Debug\ProstKlass.pdb
+D:\Павловская лабы\ProstKlass\ProstKlass\obj\Debug\ProstKlass.csprojResolveAssemblyReference.cache
+D:\Павловская лабы\ProstKlass\ProstKlass\obj\Debug\ProstKlass.exe
+D:\Павловская лабы\ProstKlass\ProstKlass\obj\Debug\ProstKlass.pdb
